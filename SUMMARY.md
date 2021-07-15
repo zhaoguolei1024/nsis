@@ -32,4 +32,5 @@
 - [对安装脚本及流程进行修改](advancedfunction/4.md)
 - [启动打包](advancedfunction/5.md)
 - [其他注意事项](advancedfunction/6.md)
+- [安装包报毒解决方法](advancedfunction/setupbaodu.md)
 
