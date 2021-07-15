@@ -3,7 +3,7 @@
 
 官网文档：[https://nsis.markdown2web.com](https://nsis.markdown2web.com)
 
-程序作者：利洽科技
+控件作者：利洽科技
 
 在线文档作者：赵国磊
 
