@@ -4,8 +4,13 @@
 
 # 主目录
 
+> - [快速入门](#quick)
 > - [基础功能](#basefunction)
 > - [高级功能](#advancedfunction)
+
+## 快速入门 <a id="quick"></a>
+
+- [快速入门](quick/rumen.md)
 
 ## 基础功能 <a id="basefunction"></a>
 
